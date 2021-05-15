@@ -36,6 +36,8 @@ const MainStackNavigator = () => {
    
 
 
+
+
         {/* <Stack.Screen name="MainPage" component={MainPage} options={{ title: "Main Page"}} />
         <Stack.Screen name="MyDrawerNavigation" component={MyDrawerNavigation} options={{ headerShown: false }} />
         <Stack.Screen name="MyViewPagger" component={MyViewPagger} options={{ title: "View Pagger" }} />
