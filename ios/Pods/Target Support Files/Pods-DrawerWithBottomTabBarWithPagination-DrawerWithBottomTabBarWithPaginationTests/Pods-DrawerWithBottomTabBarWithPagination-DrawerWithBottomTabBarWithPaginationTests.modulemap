@@ -1,0 +1,6 @@
+module Pods_DrawerWithBottomTabBarWithPagination_DrawerWithBottomTabBarWithPaginationTests {
+  umbrella header "Pods-DrawerWithBottomTabBarWithPagination-DrawerWithBottomTabBarWithPaginationTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

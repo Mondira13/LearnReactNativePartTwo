@@ -1,0 +1,14 @@
+com/drawerwithbottomtabbarwithpagination/MainApplication.java
+ com.drawerwithbottomtabbarwithpagination.MainApplication
+ com.drawerwithbottomtabbarwithpagination.MainApplication$1
+com/drawerwithbottomtabbarwithpagination/MainActivity.java
+ com.drawerwithbottomtabbarwithpagination.MainActivity
+com/drawerwithbottomtabbarwithpagination/ReactNativeFlipper.java
+ com.drawerwithbottomtabbarwithpagination.ReactNativeFlipper
+ com.drawerwithbottomtabbarwithpagination.ReactNativeFlipper$1
+ com.drawerwithbottomtabbarwithpagination.ReactNativeFlipper$2
+ com.drawerwithbottomtabbarwithpagination.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/drawerwithbottomtabbarwithpagination/BuildConfig.java
+ com.drawerwithbottomtabbarwithpagination.BuildConfig
